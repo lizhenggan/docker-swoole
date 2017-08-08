@@ -1,12 +1,8 @@
-# swoole-docker-example
-swoole example
+# 1 install swoole
 
-安装docker
-
-git clone https://github.com/koolob/swoole-docker-example.git
-
-cd swoole-docker-example
-
+```
 bash ./build.sh
+```
+# 2 配置docker-compose.yml
 
 浏览器访问 http://容器ip:8080
